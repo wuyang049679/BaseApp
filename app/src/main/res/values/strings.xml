@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="text_empty">还没有数据呢！</string>
+    <string name="text_retry">重新加载</string>
+</resources>
